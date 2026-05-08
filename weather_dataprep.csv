@@ -1,0 +1,181 @@
+City,Month Name,Average Temperature,Average Sunshine Hours,Population,Record date
+"Chicago, Jackson Blvd 2045 W, USA",January,32.54F,4.2,2695598,1-31-2019
+"Chicago, Jackson Blvd 2045W, USA",February,34.52F,5,2695598,2-29-2019
+"Chicago, Jackson Blvd 2045W, USA",March,44.60F,6.1,2695598,3-31-2O19
+"Chicago, Jackson Blvd 2045W, USA",April,59.36F,7.1,2695598,4-30-2019
+"Chicago, Jackson Blvd 2045W, USA",May,70.34F,8.9,2695598,5-31-2019
+"Chicago, Jackson Blvd 2045W, USA",June,80.60F,10.1,2695598,6-30-2019
+"Chicago, Jackson Blvd 2045W, USA",July,84.38F,10.4,2695598,7-31-2019
+"Chicago, Jackson Blvd 2045W, USA",August,83.30F,9.4,2695598,8-31-2019
+"Chicago, Jackson Blvd 2045W, USA",September,75.74F,7.9,2695598,9-30-2019
+"Chicago, Jackson Blvd 2045W, USA",October,65.12F,6.8,2695598,10-31-2019
+"Chicago, Jackson Blvd 2045W, USA",November,48.02F,4.1,2695598,11-30-2019
+"Chicago, Jackson Blvd 2045W, USA",December,35.24F,3.5,2695598,12-31-2019
+"Miami, Country Club Dr 3701 N, USA",January,75.20F,6.5,399457,1-31-2019
+"Miami, Country Club Dr 3701 N, USA",February,78.26F,8.2,399457,2-28-2019
+"Miami, Country Club Dr 3701 N, USA",March,79.16F,8.9,399457,3-31-2019
+"Miami, Country Club Dr 3701 N, USA",April,82.40F,9.8,399457,4-30-2019
+"Miami, Country Club Dr 3701 N, USA",May,85.28F,9.7,399457,5-31-2019
+"Miami, Country Club Dr 3701 N, USA",June,87.62F,9.6,399457,6-30-2019
+"Miami, Country Club Dr 3701 N, USA",July,89.06F,10,399457,7-31-2019
+"Miami, Country Club Dr 3701 N, USA",August,89.06F,9.3,399457,8-31-2019
+"Miami, Country Club Dr 3701 N, USA",September,87.80F,8.7,399457,9-30-2019
+"Miami, Country Club Dr 3701 N, USA",October,84.56F,8.4,399457,10-31-2019
+"Miami, Country Club Dr 3701 N, USA",November,80.42F,7.4,399457,11-30-2019
+"Miami, Country Club Dr 3701 N, USA",December,76.64F,7,399457,12-31-2019
+"Amsterdam, Glanshof 1e , Netherlands",Januari,"4,60C","1,4",864217,31.01.2019
+"Amsterdam, Glanshof 1e , Netherlands",Februari,"5,40C","2,6",864217,28.02.2019
+"Amsterdam, Glanshof 1e , Netherlands",Maart,"8,40C","3,5",864217,31.03.2019
+"Amsterdam, Glanshof 1e , Netherlands",April,"11,90C","5,4",864217,30.04.2019
+"Amsterdam, Glanshof 1e , Netherlands",Mei,"16,40C","6,9",864217,31.05.2019
+"Amsterdam, Glanshof 1e , Netherlands",Juni,"19,20C","6,8",864217,30.06.2019
+"Amsterdam, Glanshof 1e , Netherlands",Juli,"20,60C","6,5",864217,31.07.2019
+"Amsterdam, Glanshof 1e , Netherlands",Augustus,"20,60C","6,2",864217,31.08.2019
+"Amsterdam, Glanshof 1e , Netherlands",September,"18,20C","4,5",864217,30.09.2019
+"Amsterdam, Glanshof 1e , Netherlands",Oktober,"14,20C","3,2",864217,31.10.2019
+"Amsterdam, Glanshof 1e , Netherlands",November,"8,90C","1,8",864217,30.11.2019
+"Amsterdam, Glanshof 1e , Netherlands",December,"5,80C","1,2",864217,31.12.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Januar,"2,40C","1,4",634830,31.1.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Februar,"4,60C","2,6",634830,28.2.2019
+"Stuttgart, Filderbahnstr. 2, Germany",März,"9,50C",4,634830,31.3.2019
+"Stuttgart, Filderbahnstr. 2, Germany",April,"14,10C","5,4",634830,30.4.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Mai,"18,60C","6,4",634830,31.5.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Juni,"21,80C","7,3",634830,30.6.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Juli,"24,10C","7,9",634830,31.7.2019
+"Stuttgart, Filderbahnstr. 2, Germany",August,"23,30C","6,9",634830,31.8.2019
+"Stuttgart, Filderbahnstr. 2, Germany",September,"20,10C","5,7",634830,30.9.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Oktober,"13,80C","3,2",634830,31.10.2019
+"Stuttgart, Filderbahnstr. 2, Germany",November,"7,20C","1,8",634830,30.11.2019
+"Stuttgart, Filderbahnstr. 2, Germany",Dezember,"3,30C","1,2",634830,31.12.2019
+"Zurich, Carmenstrasse 32, Switzerland",Januar,2.40C,1.4,415367,31.01.2019
+"Zurich, Carmenstrasse 32, Switzerland",Februar,4.60C,2.6,415367,28.02.2019
+"Zurich, Carmenstrasse 32, Switzerland",März,9.50C,4,415367,31.03.2019
+"Zurich, Carmenstrasse 32, Switzerland",April,14C,5.4,415367,30.04.2019
+"Zurich, Carmenstrasse 32, Switzerland",Mai,18.60C,6.4,415367,31.05.2019
+"Zurich, Carmenstrasse 32, Switzerland",Juni,21.80C,7.3,415367,30.06.2019
+"Zurich, Carmenstrasse 32, Switzerland",Juli,24.10C,7.9,415367,31.07.2019
+"Zurich, Carmenstrasse 32, Switzerland",August,23.30C,6.9,415367,31.08.2019
+"Zurich, Carmenstrasse 32, Switzerland",September,20.10C,5.7,415367,30.09.2019
+"Zurich, Carmenstrasse 32, Switzerland",Oktober,13.80C,3.2,415367,31.10.2019
+"Zurich, Carmenstrasse 32, Switzerland",November,7.20C,1.8,415367,30.11.2019
+"Zurich, Carmenstrasse 32, Switzerland",Dezember,3.30C,1.2,415367,31.12.2019
+"Denver, Melody Dr 12151, USA",January,43.16F,6.9,600158,1-31-2019
+"Denver, Melody Dr 12151, USA",February,46.58F,7.5,600158,2-28-2019
+"Denver, Melody Dr 12151, USA",March,52.16F,8.2,600158,3-31-2019
+"Denver, Melody Dr 12151, USA",April,61.88F,9.2,600158,4-30-2019
+"Denver, Melody Dr 12151, USA",May,70.88F,9.4,600158,5-31-2019
+"Denver, Melody Dr 12151, USA",June,81.32F,10.5,600158,6-30-2019
+"Denver, Melody Dr 12151, USA",July,88.16F,10.5,600158,7-31-2019
+"Denver, Melody Dr 12151, USA",August,85.82F,9.9,600158,8-31-2019
+"Denver, Melody Dr 12151, USA",September,76.82F,9.1,600158,9-30-2019
+"Denver, Melody Dr 12151, USA",October,66.38F,8,600158,10-31-2019
+"Denver, Melody Dr 12151, USA",November,52.52F,6.5,600158,11-30-2019
+"Denver, Melody Dr 12151, USA",December,44.42F,6.3,600158,12-31-2019
+"London, Oxford Street 1, Great Britain",January,6.40C,1.5,8908081,31/01/2019
+"London, Oxford Street 1, Great Britain",February,7.10C,2.2,8908081,28/02/2019
+"London, Oxford Street 1, Great Britain",March,10.10C,3.5,8908081,31/03/2019
+"London, Oxford Street 1, Great Britain",April,13.30C,5.2,8908081,30/04/2019
+"London, Oxford Street 1, Great Britain",May,16.90C,6.5,8908081,31/05/2019
+"London, Oxford Street 1, Great Britain",June,20.30C,6.8,8908081,30/06/2019
+"London, Oxford Street 1, Great Britain",July,21.90C,6.5,8908081,31/07/2019
+"London, Oxford Street 1, Great Britain",August,21.40C,6,8908081,31/08/2019
+"London, Oxford Street 1, Great Britain",September,18.50C,4.8,8908081,30/09/2019
+"London, Oxford Street 1, Great Britain",October,14.20C,3.1,8908081,31/10/2019
+"London, Oxford Street 1, Great Britain",November,10.10C,1.8,8908081,30/11/2019
+"London, Oxford Street 1, Great Britain",December,7.40C,1.3,8908081,31/12/2019
+"Nice, rue Pastorelli 30, France",Janvier,"5,20C",3,340017,31.01.2019
+"Nice, rue Pastorelli 30, France",Février,"8,50C","3,7",340017,28.02.2019
+"Nice, rue Pastorelli 30, France",Mars,"13,10C","4,6",340017,31.03.2019
+"Nice, rue Pastorelli 30, France",Avril,"17,30C","5,4",340017,30.04.2019
+"Nice, rue Pastorelli 30, France",Mai,"22,30C","6,7",340017,31.05.2019
+"Nice, rue Pastorelli 30, France",Juin,"26,20C","8,2",340017,30.06.2019
+"Nice, rue Pastorelli 30, France",Juillet,"28,90C","9,3",340017,31.07.2019
+"Nice, rue Pastorelli 30, France",Août,"28,10C","8,3",340017,31.08.2019
+"Nice, rue Pastorelli 30, France",Septembre,"24,40C","6,3",340017,30.09.2019
+"Nice, rue Pastorelli 30, France",Octobre,"18,40C","4,5",340017,31.10.2019
+"Nice, rue Pastorelli 30, France",Novembre,"11,10C","2,9",340017,30.11.2019
+"Nice, rue Pastorelli 30, France",Décembre,"6,10C","2,9",340017,31.12.2019
+"Paris, Rue Baillet 2, France",Janvier,"6,10C","1,8",2187526,31.01.2019
+"Paris, Rue Baillet 2, France",Février,"7,40C","2,8",2187526,28.02.2019
+"Paris, Rue Baillet 2, France",Mars,"12,20C","5,1",2187526,31.03.2019
+"Paris, Rue Baillet 2, France",Avril,"15,80C",6,2187526,30.04.2019
+"Paris, Rue Baillet 2, France",Mai,"19,10C","7,5",2187526,31.05.2019
+"Paris, Rue Baillet 2, France",Juin,"22,10C","8,1",2187526,30.06.2019
+"Paris, Rue Baillet 2, France",Juillet,"26,60C","7,8",2187526,31.07.2019
+"Paris, Rue Baillet 2, France",Août,"21,10C","7,1",2187526,31.08.2019
+"Paris, Rue Baillet 2, France",Septembre,"15,60C",6,2187526,30.09.2019
+"Paris, Rue Baillet 2, France",Octobre,"10,10C","4,1",2187526,31.10.2019
+"Paris, Rue Baillet 2, France",Novembre,"6,60C",2,2187526,30.11.2019
+"Paris, Rue Baillet 2, France",Décembre,"3,30C","1,5",2187526,31.12.2019
+"San Francisco, Oakdale Ave 1691, USA",January,44.78F,2.5,805235,1-31-2019
+"San Francisco, Oakdale Ave 1691, USA",February,50.10F,3.5,805235,2-28-2019
+"San Francisco, Oakdale Ave 1691, USA",March,53.06F,5,805235,3-31-2019
+"San Francisco, Oakdale Ave 1691, USA",April,59F,6.4,805235,4-30-2019
+"San Francisco, Oakdale Ave 1691, USA",May,65.84F,7.9,805235,5-31-2019
+"San Francisco, Oakdale Ave 1691, USA",June,70.34F,7.8,805235,6-30-2019
+"San Francisco, Oakdale Ave 1691, USA",July,75.74F,9.8,805235,7-31-2019
+"San Francisco, Oakdale Ave 1691, USA",August,74.48F,8,805235,8-31-2019
+"San Francisco, Oakdale Ave 1691, USA",September,69.26F,6.7,805235,9-30-2019
+"San Francisco, Oakdale Ave 1691, USA",October,61.70F,4,805235,10-31-2019
+"San Francisco, Oakdale Ave 1691, USA",November,51.08F,2.6,805235,11-30-2019
+"San Francisco, Oakdale Ave 1691, USA",December,46.58F,2,805235,12-31-2019
+"Boston, Harvard St 22, USA",January,36.32F,5,694583,1-31-2019
+"Boston, Harvard St 22, USA",February,37.76F,6,694583,2-28-2019
+"Boston, Harvard St 22, USA",March,44.96F,6.8,694583,3-31-2019
+"Boston, Harvard St 22, USA",April,56.66F,7.6,694583,4-30-2019
+"Boston, Harvard St 22, USA",May,66.92F,8.6,694583,5-31-2019
+"Boston, Harvard St 22, USA",June,76.64F,9.6,694583,6-30-2019
+"Boston, Harvard St 22, USA",July,81.86F,9.8,694583,7-31-2019
+"Boston, Harvard St 22, USA",August,79.88F,9,694583,8-31-2019
+"Boston, Harvard St 22, USA",September,72.50F,8,694583,9-30-2019
+"Boston, Harvard St 22, USA",October,62.42F,6.6,694583,10-31-2019
+"Boston, Harvard St 22, USA",November,51.44F,4.9,694583,11-30-2019
+"Boston, Harvard St 22, USA",December,40.10F,4.7,694583,12-31-2019
+"Berlin, Falkenberger Chaussee 4, Germany",Januar,"1,80C","1,5",3669491,31.1.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Februar,"3,50C","2,6",3669491,28.2.2019
+"Berlin, Falkenberger Chaussee 4, Germany",März,"7,90C","3,9",3669491,31.3.2019
+"Berlin, Falkenberger Chaussee 4, Germany",April,"13,20C","5,2",3669491,30.4.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Mai,"18,60C","7,1",3669491,31.5.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Juni,"21,80C","7,4",3669491,30.6.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Juli,"23,10C",7,3669491,31.7.2019
+"Berlin, Falkenberger Chaussee 4, Germany",August,"22,80C","6,8",3669491,31.8.2019
+"Berlin, Falkenberger Chaussee 4, Germany",September,"18,70C","5,2",3669491,30.9.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Oktober,"13,30C","3,6",3669491,31.10.2019
+"Berlin, Falkenberger Chaussee 4, Germany",November,"7,10C","1,7",3669491,30.11.2019
+"Berlin, Falkenberger Chaussee 4, Germany",Dezember,"3,20C","1,2",3669491,31.12.2019
+"Hambourg, Bachstelzenweg 3, Germany",Januar,"2,70C","1,3",1899160,31.1.2019
+"Hambourg, Bachstelzenweg 3, Germany",Februar,"3,80C","2,4",1899160,28.2.2019
+"Hambourg, Bachstelzenweg 3, Germany",März,7.20C,3.4,1899160,31.3.2019
+"Hambourg, Bachstelzenweg 3, Germany",April,"11,90C","5,4",1899160,30.4.2019
+"Hambourg, Bachstelzenweg 3, Germany",Mai,"17,1C",7,1899160,31.5.2019
+"Hambourg, Bachstelzenweg 3, Germany",Juni,"20,20C","7,4",1899160,30.6.2019
+"Hambourg, Bachstelzenweg 3, Germany",Juli,"21,40C","6,7",1899160,31.7.2019
+"Hambourg, Bachstelzenweg 3, Germany",August,"21,60C","6,7",1899160,31.8.2019
+"Hambourg, Bachstelzenweg 3, Germany",September,"118,10C","4,7",1899160,30.9.2019
+"Hambourg, Bachstelzenweg 3, Germany",Oktober,"13,30C","3,3",1899160,31.10.2019
+"Hambourg, Bachstelzenweg 3, Germany",November,"7,60C","1,8",1899160,30.11.2019
+"Hambourg, Bachstelzenweg 3, Germany",Dezember,"4,1C","1,1",1899160,31.12.2019
+"Cologne, Nachtigallenstr. 2, Germany",Januar,"3,90C","1,4",1087863,31.1.2019
+"Cologne, Nachtigallenstr. 2, Germany",Februar,"5,10C","2,7",1087863,28.2.2019
+"Cologne, Nachtigallenstr. 2, Germany",März,"8,30C","3,3",1087863,31.3.2019
+"Cologne, Nachtigallenstr. 2, Germany",April,"12,40C","4,9",1087863,30.4.2019
+"Cologne, Nachtigallenstr. 2, Germany",Mai,"17,10C","6,2",1087863,31.5.2019
+"Cologne, Nachtigallenstr. 2, Germany",Juni,"20,10C","6,1",1087863,30.6.2019
+"Cologne, Nachtigallenstr. 2, Germany",Juli,"21,60C",6,1087863,31.7.2019
+"Cologne, Nachtigallenstr. 2, Germany",August,"21,60C","5,9",1087863,31.8.2019
+"Cologne, Nachtigallenstr. 2, Germany",September,"18,40C","4,5",1087863,30.9.2019
+"Cologne, Nachtigallenstr. 2, Germany",Oktober,"14,10C","3,6",1087863,31.10.2019
+"Cologne, Nachtigallenstr. 2, Germany",November,"8,10C","1,9",1087863,30.11.2019
+"Cologne, Nachtigallenstr. 2, Germany",Dezember,"4,90C","1,3",1087863,31.12.2019
+"Sidney, Elizabeth Bay Road 15 , Australia",January,26.10C,7.2,4446805,31/01/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",February,26.20C,7,4446805,28/02/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",March,25.20C,6.5,4446805,31/03/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",April,23.20C,6.5,4446805,30/04/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",May,20.30C,5.9,4446805,31/05/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",June,17.70C,5.6,4446805,30/06/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",July,17.10C,6.5,4446805,31/07/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",August,18.20C,7.1,4446805,31/08/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",September,20.40C,7.2,4446805,30/09/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",October,22.20C,7.2,4446805,31/10/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",November,23.70C,7.7,4446805,30/11/2019
+"Sidney, Elizabeth Bay Road 15 , Australia",December,25.50C,7.7,4446805,31/12/2019
